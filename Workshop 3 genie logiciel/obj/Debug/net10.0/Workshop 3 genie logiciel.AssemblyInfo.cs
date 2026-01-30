@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Workshop 3 genie logiciel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d0d7d8c789b08fb577d118b005a6d53c373ccca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d11228def5faae5983558581ca9300373f57553b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Workshop 3 genie logiciel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Workshop 3 genie logiciel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

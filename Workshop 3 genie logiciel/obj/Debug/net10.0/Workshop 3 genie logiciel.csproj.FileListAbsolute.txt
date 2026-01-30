@@ -1,0 +1,15 @@
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\bin\Debug\net10.0\Workshop 3 genie logiciel.exe
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\bin\Debug\net10.0\Workshop 3 genie logiciel.deps.json
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\bin\Debug\net10.0\Workshop 3 genie logiciel.runtimeconfig.json
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\bin\Debug\net10.0\Workshop 3 genie logiciel.dll
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\bin\Debug\net10.0\Workshop 3 genie logiciel.pdb
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\obj\Debug\net10.0\Workshop 3 genie logiciel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\obj\Debug\net10.0\Workshop 3 genie logiciel.AssemblyInfoInputs.cache
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\obj\Debug\net10.0\Workshop 3 genie logiciel.AssemblyInfo.cs
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\obj\Debug\net10.0\Workshop 3 genie logiciel.csproj.CoreCompileInputs.cache
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\obj\Debug\net10.0\Workshop 3 genie logiciel.sourcelink.json
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\obj\Debug\net10.0\Workshop 3 genie logiciel.dll
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\obj\Debug\net10.0\refint\Workshop 3 genie logiciel.dll
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\obj\Debug\net10.0\Workshop 3 genie logiciel.pdb
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\obj\Debug\net10.0\Workshop 3 genie logiciel.genruntimeconfig.cache
+C:\Users\quent\source\repos\Workshop 3 genie logiciel\Workshop 3 genie logiciel\obj\Debug\net10.0\ref\Workshop 3 genie logiciel.dll
